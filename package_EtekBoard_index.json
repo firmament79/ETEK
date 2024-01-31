@@ -13,7 +13,7 @@
           "name": "EtekBoard",
           "architecture": "avr",
           "version": "1.0.0",
-          "category": "Contributed",
+          "category": "ETEK",
           "url": "https://github.com/firmament79/ETEK/raw/main/EtekBoard.zip",
           "archiveFileName": "EtekBoard.zip",
           "checksum": "SHA-256:0be22eaa0f197422f49eb29c6a6511f4048eb672189edd902d290efdabd07e28",

@@ -39,7 +39,7 @@
           "url": "https://github.com/firmament79/ETEK/raw/main/EtekBoard-1.0.1.zip",
           "archiveFileName": "EtekBoard-1.0.1.zip",
           "checksum": "SHA-256:416af262738829821fcefc9a6173c2a9e16e3b223ab6159d1c4b320d26c9f278",
-          "size": "5635072",
+          "size": "5634357",
           "boards": [
             {"name": "MINI v2.4 (UNO/ATmega328PU)"},
             {"name": "MINI v3.0 (ATmega328PB)"},

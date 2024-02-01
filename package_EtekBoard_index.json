@@ -30,7 +30,30 @@
               "version": "7.2-arduino.1"
             }
           ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/main/EtekBoard-1.0.1.zip",
+          "archiveFileName": "EtekBoard-1.0.1.zip",
+          "checksum": "SHA-256:1a806867cb26bc5a3e0b62a78c1350039c0e4f65d7925377cb8a966d6d9d8ffa",
+          "size": "5631863",
+          "boards": [
+            {"name": "MINI v2.4 (UNO/ATmega328PU)"},
+            {"name": "MINI v3.0 (ATmega328PB)"},
+            {"name": "TANK v2.0 (ATmega2560)"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
         }
+
       ],
       "tools": [
         {

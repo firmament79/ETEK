@@ -101,12 +101,12 @@
         {
           "name": "EtekBoard",
           "architecture": "avr",
-          "version": "1.0.4",
+          "version": "2.0.0",
           "category": "Contributed",
-          "url": "https://github.com/firmament79/ETEK/raw/main/EtekBoard-1.0.4.zip",
-          "archiveFileName": "EtekBoard-1.0.4.zip",
-          "checksum": "SHA-256:2478b904e155f2c0edd9f9ffda9a6f2fe4674966cda495cac0cb92c23a4f56e3",
-          "size": "5711366",
+          "url": "https://github.com/firmament79/ETEK/raw/main/EtekBoard-2.0.0.zip",
+          "archiveFileName": "EtekBoard-2.0.0.zip",
+          "checksum": "SHA-256:55b34d4ce00fb3abae48bb666dbb879c79f0e157999cb8f0a54b40032d7b71c9",
+          "size": "5711330",
           "boards": [
             {"name": "MINI v2.4"},
             {"name": "MINI v2.4 SE"},

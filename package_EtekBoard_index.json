@@ -3,7 +3,7 @@
     {
       "name": "EtekBoard",
       "maintainer": "Quane tech.",
-      "websiteURL": "https://www.quan-e.com/",
+      "websiteURL": "https://github.com/firmament79/ETEK",
       "email": "",
       "help": {
         "online": ""
@@ -127,7 +127,7 @@
           "architecture": "avr",
           "version": "2.1.0",
           "category": "Contributed",
-          "url": "https://github.com/firmament79/ETEK/raw/d775331dc038435026e19512f154d4aaba97a631/EtekBoard-2.1.0.zip",
+          "url": "https://github.com/firmament79/ETEK/raw/main/EtekBoard-2.1.0.zip",
           "archiveFileName": "EtekBoard-2.1.0.zip",
           "checksum": "SHA-256:260da66296a6ed4cc67c99796a670d88f2f4a77724235473438720bfd603a3a4",
           "size": "5592517",

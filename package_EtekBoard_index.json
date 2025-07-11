@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "EtekBoard",
-      "maintainer": "Etek",
+      "maintainer": "Quane tech.",
       "websiteURL": "https://www.quan-e.com/",
       "email": "",
       "help": {
@@ -103,10 +103,35 @@
           "architecture": "avr",
           "version": "2.0.0",
           "category": "Contributed",
-          "url": "https://github.com/firmament79/ETEK/raw/main/EtekBoard-2.0.0.zip",
+          // "url": "https://github.com/firmament79/ETEK/raw/main/EtekBoard-2.0.0.zip",
+          "url": "https:http://gofile.me/5lEW0/CqtNvItjq",
           "archiveFileName": "EtekBoard-2.0.0.zip",
           "checksum": "SHA-256:55b34d4ce00fb3abae48bb666dbb879c79f0e157999cb8f0a54b40032d7b71c9",
           "size": "5711330",
+          "boards": [
+            {"name": "MINI v2.4"},
+            {"name": "MINI v2.4 SE"},
+            {"name": "MINI v3.0"},
+            {"name": "TANK v2.0"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "2.1.0",
+          "category": "Contributed",
+          // "url": "https://github.com/firmament79/ETEK/raw/main/EtekBoard-2.1.0.zip",
+          "url": "https://github.com/firmament79/ETEK/raw/d775331dc038435026e19512f154d4aaba97a631/EtekBoard-2.1.0.zip",
+          "archiveFileName": "EtekBoard-2.1.0.zip",
+          "checksum": "SHA-256:260da66296a6ed4cc67c99796a670d88f2f4a77724235473438720bfd603a3a4",
+          "size": "5592517",
           "boards": [
             {"name": "MINI v2.4"},
             {"name": "MINI v2.4 SE"},

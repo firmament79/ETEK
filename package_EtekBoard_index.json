@@ -143,7 +143,7 @@
               "version": "7.2-arduino.1"
             }
           ]
-        }
+        },
         {
           "name": "EtekBoard",
           "architecture": "avr",

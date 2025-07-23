@@ -166,6 +166,29 @@
               "version": "7.2-arduino.1"
             }
           ]
+        },
+        {
+          "name": "EtekBoard",
+          "architecture": "avr",
+          "version": "2.1.4",
+          "category": "Contributed",
+          "url": "https://github.com/firmament79/ETEK/raw/refs/heads/main/EtekBoard-2.1.4.zip",
+          "archiveFileName": "EtekBoard-2.1.4.zip",
+          "checksum": "SHA-256:782d5aaca3635b768ac4ec875e9efefaae1a6d1bed8723c5ee806c556fa45a46",
+          "size": "5770563",
+          "boards": [
+            {"name": "MINI v2.4"},
+            {"name": "MINI v2.4 SE"},
+            {"name": "MINI v3.0"},
+            {"name": "TANK v2.0"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "EtekBoard",
+              "name": "avrdude",
+              "version": "7.2-arduino.1"
+            }
+          ]
         }
 
       ],

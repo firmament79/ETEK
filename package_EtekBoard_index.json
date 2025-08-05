@@ -197,7 +197,7 @@
           "category": "Contributed",
           "url": "https://github.com/firmament79/ETEK/raw/refs/heads/main/EtekBoard-2.1.5.zip",
           "archiveFileName": "EtekBoard-2.1.5.zip",
-          "checksum": "SHA-256:b8a4e62e4258710940037567b9fca731de20648219e916053e385a5710afb617",
+          "checksum": "SHA-256:57e4d08e5f54786a0c3ac572ca35f9fe57545a99accb5e0beec561ceb205b4f6",
           "size": "5778836",
           "boards": [
             {"name": "MINI v2.4"},
